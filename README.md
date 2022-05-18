@@ -8,20 +8,20 @@ https://ferreteriaraul-53545.web.app
 
 ## Rick and Morty App
 
-I'm Mr. Meeseeks, look at me! (veronicapava.github.io)
+https://veronicapava.github.io/RickAndMortyApp/
 
 ## Juego de preguntas y respuestas
 
-veronicapava/quiz: Este proyecto fue creado con ReactJs, juego de preguntas y respuestas. (github.com)
+https://github.com/veronicapava/quiz
 
 ## Weather App
 
-veronicapava/weather-app: App del tiempo, creada con ReactJS, se utilizó API "openweathermap". (github.com)
+https://github.com/veronicapava/weather-app
 
 ## Juego triqui
 
-Triqui (veronicapava.github.io)
+https://veronicapava.github.io/juegotriqui/
 
 ## Movie App
 
-veronicapava/movie-app (github.com)
+https://github.com/veronicapava/movie-app
