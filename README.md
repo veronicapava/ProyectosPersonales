@@ -4,11 +4,15 @@ Proyectos realizados en su mayoría con ReactJs
 
 ## Ferretería Don Raúl
 
-https://ferreteriaraul-53545.web.app
+Despliegue: https://ferreteriaraul-53545.web.app
+
+Repositorio: https://github.com/veronicapava/Ferreteria/tree/main/front
 
 ## Rick and Morty App
 
-https://veronicapava.github.io/RickAndMortyApp/
+Despliegue: https://veronicapava.github.io/RickAndMortyApp/
+
+Repo: https://github.com/veronicapava/RickAndMortyApp
 
 ## Juego de preguntas y respuestas
 
@@ -20,7 +24,9 @@ https://github.com/veronicapava/weather-app
 
 ## Juego triqui
 
-https://veronicapava.github.io/juegotriqui/
+Despliegue: https://veronicapava.github.io/juegotriqui/
+
+Repo: https://github.com/veronicapava/juegotriqui
 
 ## Movie App
 
